@@ -2,6 +2,6 @@ package com.epam.worldchat.entity;
 
 public enum Sex {
 
-	MAN, WOMAN, DOG
+	MAN, WOMAN, DOG, CAT
 
 }
