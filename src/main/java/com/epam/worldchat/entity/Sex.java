@@ -2,11 +2,6 @@ package com.epam.worldchat.entity;
 
 public enum Sex {
 
-	SUPERMAN, SUPERWOMAN;
-	Sex() {
+	MAN, WOMAN, DOG
 
-	}
-	public long returnLong() {
-		return 10;
-	}
 }
