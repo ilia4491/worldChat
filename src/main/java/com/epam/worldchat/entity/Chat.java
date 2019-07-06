@@ -11,8 +11,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Chat {
 
-	private int id;
+	private long id;
 	private LocalDate creationDate;
 	private Set<Comment> comments;
-	
+	private String chatName;
 }

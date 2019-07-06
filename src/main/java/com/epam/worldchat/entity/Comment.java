@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Comment {
 
-	private int id;
+	private long id;
 	private LocalDate date;
 	private Person[] persons;
 	private String text;
