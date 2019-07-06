@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 public class Chat {
 
 	private long id;
-	private LocalDate creationDate;
+	private LocalDate[] creationDates;
 	private Set<Comment> comments;
 	private String chatName;
 }

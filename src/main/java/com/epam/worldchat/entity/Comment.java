@@ -12,5 +12,5 @@ public class Comment {
 	private long id;
 	private LocalDate date;
 	private Person[] persons;
-	private String text;
+	private String textComment;
 }
